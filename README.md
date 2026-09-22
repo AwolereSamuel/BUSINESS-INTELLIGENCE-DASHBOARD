@@ -178,7 +178,7 @@ The model supports analysis by:
 The Dim_Date table is intended to support time-intelligence calculations such as previous-month sales, previous-year sales, sales growth, and year-over-year growth.
 
 # DASHBOARD & KEY FEATURES 
-1. Data Preparation
+1. **Data Preparation**
 
 - Reviewed and prepared business data for analysis.
 
@@ -189,7 +189,7 @@ The Dim_Date table is intended to support time-intelligence calculations such as
 - Prepared the data model for reporting and analysis.
 
 
-2. KPI Analysis: The dashboard includes performance indicators such as:
+2. **KPI Analysis:** The dashboard includes performance indicators such as:
 
 - Total Sales
 
@@ -212,7 +212,7 @@ The Dim_Date table is intended to support time-intelligence calculations such as
 - Previous Year Sales
 
 
-3. Dashboard Pages
+3. **Dashboard Pages**
 
 (I) Executive Overview: The Executive Overview page provides a high-level summary of business performance.
 
@@ -318,7 +318,7 @@ The tooltip layout contains:
 This improves usability by allowing users to inspect product-level performance without leaving the main report page.
 
 
-4. Interactivity
+4. **Interactivity**
 
 - Report-page navigation
 
